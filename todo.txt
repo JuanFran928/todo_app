@@ -1,0 +1,15 @@
+meter completado y descripción en el todo
+
+conectarlo a la api de django al back-end
+
+cuando inicias sesion quitar los botones signup y signin y poner logout en su lugar
+
+coger datos de la base de datos y modificar navbar cuando el inicio de sesion es correcto
+
+probar lo del token mas adelante
+
+cada usuario ve sus propias tareas
+
+video login de midudev, mejorar la autenticacion con su video
+
+proteger la contraseña en el navegador
